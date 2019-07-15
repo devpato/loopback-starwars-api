@@ -13,6 +13,18 @@
     "rotation_period": {
       "type": "number",
       "required": true
+    },
+    "orbital_period": {
+      "type": "number",
+      "required": true
+    },
+    "diameter": {
+      "type": "number",
+      "required": true
+    },
+    "population": {
+      "type": "number",
+      "required": true
     }
   },
   "validations": [],
