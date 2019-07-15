@@ -41,5 +41,21 @@
   "People": {
     "dataSource": "db",
     "public": true
+  },
+  "Films": {
+    "dataSource": "db",
+    "public": true
+  },
+  "Starship": {
+    "dataSource": "db",
+    "public": true
+  },
+  "Specie": {
+    "dataSource": "db",
+    "public": true
+  },
+  "Planet": {
+    "dataSource": "db",
+    "public": true
   }
 }
