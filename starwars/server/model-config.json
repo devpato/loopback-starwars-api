@@ -39,23 +39,23 @@
     "dataSource": null
   },
   "People": {
-    "dataSource": "db",
+    "dataSource": "mysql",
     "public": true
   },
   "Films": {
-    "dataSource": "db",
+    "dataSource": "mysql",
     "public": true
   },
   "Starship": {
-    "dataSource": "db",
+    "dataSource": "mysql",
     "public": true
   },
   "Specie": {
-    "dataSource": "db",
+    "dataSource": "mysql",
     "public": true
   },
   "Planet": {
-    "dataSource": "db",
+    "dataSource": "mysql",
     "public": true
   }
 }
