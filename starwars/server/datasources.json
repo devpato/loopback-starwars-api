@@ -2,5 +2,15 @@
   "db": {
     "name": "db",
     "connector": "memory"
+  },
+  "mysqlDs": {
+    "host": "localhost",
+    "port": 3306,
+    "url": "mysql://root:Patico92@host/db",
+    "database": "auth0",
+    "password": "Patico92",
+    "name": "mysqlDs",
+    "user": "root",
+    "connector": "mysql"
   }
 }
