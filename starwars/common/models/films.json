@@ -8,8 +8,7 @@
   "properties": {
     "title": {
       "type": "string",
-      "required": true,
-      "default": "\\"
+      "required": true
     },
     "opening_crawl": {
       "type": "string",
