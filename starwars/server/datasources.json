@@ -4,11 +4,11 @@
     "connector": "memory"
   },
   "mysqlDs": {
-    "host": "localhost",
+    "host": "127.0.0.1",
     "port": 3306,
-    "url": "mysql://root:Patico92@host/db",
+    "url": "",
     "database": "auth0",
-    "password": "Patico92",
+    "password": "Policia92",
     "name": "mysqlDs",
     "user": "root",
     "connector": "mysql"
